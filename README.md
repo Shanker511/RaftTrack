@@ -43,7 +43,7 @@ To deploy this project run
 
 For support, email support@rafttrack.com or join our Discord channel.
 
-https://discord.gg/KTDAsWhehn  
+https://discord.gg/9seu4G8ets  
 
 
 ## 🐙 The Team 🐙
